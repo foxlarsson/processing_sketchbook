@@ -15,8 +15,8 @@ def draw_line(smallest_el, y):
         x += smallest_el * 0.85
         
 
-y = height + 13
-smallest_size = 20  
+smallest_size = 20
+y = height + smallest_size
 while y > -100:
     draw_line(smallest_size, y)
     y -= 80
