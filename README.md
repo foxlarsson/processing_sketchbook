@@ -1,7 +1,33 @@
 # processing_sketchbook
 Small digital sketches created while learning [Processing](https://py.processing.org/) (its Python mode).
 
-Sharing the code to document my process and in case you're curious how this one or that one is made. I will add links to the corresponding images/videos images later (I post them on [my twitter](https://twitter.com/foxlarssonart)).
+Sharing the code to document my process and in case you're curious how this one or that one is made. I will add links to the corresponding images/videos later (I post them on [my twitter](https://twitter.com/foxlarssonart)).
+
+### 0006_growing.py | 05.06.2020
+
+**Context**: I was initially experimenting with rows that zoom in and out in circle width (I have a very particular flowing pattern idea for this), but so far I keep getting lost in my loops when I try to do this, so I decided to go for something simpler: rows that just grow from left to right.
+
+I read about ellipseMode() and rectangleMode() that allow you to change what point the first two arguments in ellipse() and rectangle() determine - where it will "grow" from: the corner (invisible if it's a circle), or the center. It can be cool when aligning things, for example.
+
+I spent over two hours playing around with different versions of this script after I figured out the logic of it, playing with distances and proportions, and the way the concentric elements in the larger circles overlap and build the pattern, and where the elements start, and the spacing. So if you see some weird looking numbers that seem oddly specific, that's not some magical mathematical context, it's me playing around with the pic and getting it to look just the way I want it.
+
+I like the combination of coming up with the logic for the picture, but then also using this same logic to make very different images, and thinking what you actually want to see. This is actually something I used to miss when drawing my patterns by hand: the fifty thousand "what ifs". I'll still be drawing by hand though, those two actually feed into each other well, it's almost like the drawing is reinforcing the coding, while the coding is reinforcing the drawing, it's good. And I still, after several days, find the process relaxing, which is unusual. =)
+
+**Image/video links:** []()
+
+
+
+### 0005_concentric_tiles.py | 05.06.2020
+
+**Context**: This one was inspired by the nested for loops excercise in the [Getting Started with Processing.py](https://www.oreilly.com/library/view/getting-started-with/9781457186820/) book. I liked the diamonds created by the negative space around the circles, and I wanted to play with that. It somehow also never occured to me to draw rows and columns in a single nested for loop statement instead of a loop for rows and a loop for columns.
+
+I like grids. I hate writing in square grid notebooks, but I love lined and dotted paper. And although this might feel too repetitive as a standalone pattern, I still find it relaxing to look at, and I like the way it starts to blur and move before you eyes when you look for longer. It made me want to experiment with rows that grow and decrease in width in cycles, but I haven't been able to get the exact kind of loop that I want to work so far, I'll keep trying.
+
+Side note: ellipse(x, y, z, z) is pretty terrible variable naming =)
+
+**Image/video links:** []()
+
+
 
 ### 0004_dashed_and_radial.py | 04.06.2020
 
