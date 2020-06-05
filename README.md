@@ -3,6 +3,23 @@ Small digital sketches created while learning [Processing](https://py.processing
 
 Sharing the code to document my process and in case you're curious how this one or that one is made. I will add links to the corresponding images/videos later (I post them on [my twitter](https://twitter.com/foxlarssonart)).
 
+### 0007_choosing_sides.py | 0.06.2020
+
+**Context**: I was diggin around the examples folder (processing has a library of examples built in) and stumbled on the polygons one. So don't think I came up with the formula for drawing a polygon with N sides all by myself. And the polygons file also had an example of using rotate() which I'd been meaning to play with, so I spent a while figuring out how things work there, and then combined that with the concentric outlines idea from the previous sketches.
+
+The use of an abolute point for the shapes' centers (0, 0) + translate() to keep them in the same places while the pushMatrix() works its animation magic is still somewhere between clear and confusing, I experimented a lot there changing values, and it seems that when I use anything other than (0, 0), the shapes start floating around instead of rotating in place, so it has to be (0, 0) with translate() for the actual positioning. That almost makes sense because of the way  you're actually moving the matrix, and not the shape, to animate, but I'll have to spend a few days with the thought to really feel comfortable.
+
+I like the way the shapes fall in and out of alignment as they rotate.
+
+Spent a while playing around with the proportions and the stroke weights, and the step size between the concentric rows in both of the polygons. The fluid movement and vibration had to be balanced out with the heavy solid background.
+
+Thinking of doing something with groups of converging lines tomorrow.
+
+**Image/video links:** []()
+
+
+
+
 ### 0006_growing.py | 05.06.2020
 
 **Context**: I was initially experimenting with rows that zoom in and out in circle width (I have a very particular flowing pattern idea for this), but so far I keep getting lost in my loops when I try to do this, so I decided to go for something simpler: rows that just grow from left to right.
