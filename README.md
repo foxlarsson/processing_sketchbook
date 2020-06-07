@@ -3,9 +3,24 @@ Small digital sketches created while learning [Processing](https://py.processing
 
 Sharing the code to document my process and in case you're curious how this one or that one is made. I will add links to the corresponding images/videos later (I post them on [my twitter](https://twitter.com/foxlarssonart)).
 
-### 0007_choosing_sides.py | 0.06.2020
+### 0007_choosing_sides.py | 07.06.2020
 
-**Context**: I was diggin around the examples folder (processing has a library of examples built in) and stumbled on the polygons one. So don't think I came up with the formula for drawing a polygon with N sides all by myself. And the polygons file also had an example of using rotate() which I'd been meaning to play with, so I spent a while figuring out how things work there, and then combined that with the concentric outlines idea from the previous sketches.
+**Context**: This is a completely different way of thinking and drawing from the art processes that I'm used to. At least with my current skill level, I can't just go ahead and fill a shape with a pattern for balance, and this forces to think of other ways to find balance. I am also using way more solid tones than I'm used to.
+
+This is a slow piece, the movement of the triangle right between relaxing and excruciating. I like the way it's the only small part that's technically moving, yet in a way it's more static than the lines and angles in the bakground.
+
+I finished reading 1984 on Friday. And took a day off on Saturday.
+
+The tools used in this piece are a combination of those used in previous ones, although technically used quad() is new. I alsoused layering to show/hide parts of the line pattern. Thinking of doing more with converging lines.
+
+**Image/video links:** []()
+
+
+
+
+### 0007_choosing_sides.py | 06.06.2020
+
+**Context**: I was digging around the examples folder (processing has a library of examples built in) and stumbled on the polygons one. So don't think I came up with the formula for drawing a polygon with N sides all by myself. And the polygons file also had an example of using rotate() which I'd been meaning to play with, so I spent a while figuring out how things work there, and then combined that with the concentric outlines idea from the previous sketches.
 
 The use of an abolute point for the shapes' centers (0, 0) + translate() to keep them in the same places while the pushMatrix() works its animation magic is still somewhere between clear and confusing, I experimented a lot there changing values, and it seems that when I use anything other than (0, 0), the shapes start floating around instead of rotating in place, so it has to be (0, 0) with translate() for the actual positioning. That almost makes sense because of the way  you're actually moving the matrix, and not the shape, to animate, but I'll have to spend a few days with the thought to really feel comfortable.
 
