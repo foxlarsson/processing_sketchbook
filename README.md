@@ -3,7 +3,28 @@ Small digital sketches created while learning [Processing](https://py.processing
 
 Sharing the code to document my process and in case you're curious how this one or that one is made. I will add links to the corresponding images/videos later (I post them on [my twitter](https://twitter.com/foxlarssonart)).
 
-### 0007_choosing_sides.py | 07.06.2020
+### 0009_looking_for_the_light.py | 08.06.2020
+
+**Context**: I played around more with lines that start all over the place, then meet at the same point. Here's another thing that's very different about digital art: the ease with which you can draw white lines on a black background, and have both colors vibrant, clear and non-muddy. The way you can have this glow of absolute white on absolute black.
+
+Since yesterday I've been thinking how I want to turn some of those sketches into actual painting, acrylic on large wooden panels. Some of them with moving parts. I'm not sure how to do that now though at the moment. My home is filled to the brim with older artworks, sculptures and paintings, so there's soon not going to be space to walk. And starting a series of large pieces would be borderline madness now.
+
+I called this one Looking for the Light. Partly because today was a terrible day I guess. I got my period, and it felt like a full scale mental and physical attack on my body and being. Mother nature has blessed me with bouts of acute depression to come with my periods, as if physical pain and the whole thing of dealing with the bleeding was not enough.
+
+I used more random elements in this piece. The points where the lines converge are predefined, but the places the lines start are random. The twelve black circles are randomly placed too. But after writing that up, I spent a while choosing an image where this randomness came together in just the right way.
+
+I like how the points of light seems so very obvious, yet there are all those circles missing them altogether. Technically, of course, the circles are not in any way programmed to interact with the "light", they're just scattered randomly.
+
+I keep forgetting that Processing has its own random() function, import Python's random module, and then see things crash because there's a conflict between the two.
+
+My [Math Adventures with Python](https://nostarch.com/mathadventures) book came today, and I'm looking forward to learning about all this stuff. The book smells like new book and paper and print, and all the math art in there is beautiful.
+
+**Image/video links:** []()
+
+
+
+
+### 0008_keep_still.py | 07.06.2020
 
 **Context**: This is a completely different way of thinking and drawing from the art processes that I'm used to. At least with my current skill level, I can't just go ahead and fill a shape with a pattern for balance, and this forces to think of other ways to find balance. I am also using way more solid tones than I'm used to.
 
