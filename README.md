@@ -3,6 +3,17 @@ Small digital sketches created while learning [Processing](https://py.processing
 
 Sharing the code to document my process and in case you're curious how this one or that one is made. I will add links to the corresponding images/videos later (I post them on [my twitter](https://twitter.com/foxlarssonart)).
 
+### 0010_flowing.py | 11.06.2020
+
+**Context**: I've been not in a very good space emotionally and intellectually since Monday, so it's just little stuff lately, and even those little thins are pretty heroic, because I can barely think and focus. But I got through the first two chapters of [Math Adventures with Python](https://nostarch.com/mathadventures), tried moving turtles around and then drawing square and star spirals with turtles, and after that I thought I would try to experiment with something similar in Processing, so I put together this script that takes a tiny square and grows it while also rotating it a bit with every iteration. It results in a nice mesmerizing spiral sort of thing, especially if you get the right proportion between how much you turn each square and how far apart the squares are and how fast they grow. Added a bit of randomness in the stroke weights, that makes the pic more interesting and dynamic.
+
+It's not big art, but I'm glad I did something. And I used rotate and transform.
+
+**Image/video links:** []()
+
+
+
+
 ### 0009_looking_for_the_light.py | 08.06.2020
 
 **Context**: I played around more with lines that start all over the place, then meet at the same point. Here's another thing that's very different about digital art: the ease with which you can draw white lines on a black background, and have both colors vibrant, clear and non-muddy. The way you can have this glow of absolute white on absolute black.
