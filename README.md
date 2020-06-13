@@ -3,6 +3,17 @@ Small digital sketches created while learning [Processing](https://py.processing
 
 Sharing the code to document my process and in case you're curious how this one or that one is made. I will add links to the corresponding images/videos later (I post them on [my twitter](https://twitter.com/foxlarssonart)).
 
+### 0011_its_here.py | 11.06.2020
+
+**Context**: I'm still very tired, so doing just little things. This one is a tangle of grass-like rods in the back, and a massive white circle up front. I called it "It's here".
+
+I spent a lot of time experimenting with the circle. I knew the rods were just what I wanted as soon as I saw them. And I though the circle would have heavy stroke and concentric elements. And after a whole bunch of experiments it turned out that I like it best with this huge empty circle. I like the blandness of it, how it's sort of in your face. And you might be there trying to look at the tangle of dainty lines, figuring out how they relate to each other and what they are all about, but there it is, big and bland and very much there.
+
+**Image/video links:** []()
+
+
+
+
 ### 0010_flowing.py | 11.06.2020
 
 **Context**: I've been not in a very good space emotionally and intellectually since Monday, so it's just little stuff lately, and even those little thins are pretty heroic, because I can barely think and focus. But I got through the first two chapters of [Math Adventures with Python](https://nostarch.com/mathadventures), tried moving turtles around and then drawing square and star spirals with turtles, and after that I thought I would try to experiment with something similar in Processing, so I put together this script that takes a tiny square and grows it while also rotating it a bit with every iteration. It results in a nice mesmerizing spiral sort of thing, especially if you get the right proportion between how much you turn each square and how far apart the squares are and how fast they grow. Added a bit of randomness in the stroke weights, that makes the pic more interesting and dynamic.
