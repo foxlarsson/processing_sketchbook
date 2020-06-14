@@ -3,7 +3,25 @@ Small digital sketches created while learning [Processing](https://py.processing
 
 Sharing the code to document my process and in case you're curious how this one or that one is made. I will add links to the corresponding images/videos later (I post them on [my twitter](https://twitter.com/foxlarssonart)).
 
-### 0011_its_here.py | 11.06.2020
+
+### 0012_wait.py | 14.06.2020
+
+**Context**: I'm on chapter 4 of [Math Adventures with Python](https://nostarch.com/mathadventures), so I've started working through the graphing excercises, built a grid and plotted a parabola. So I was thinking about grids in the evening.
+
+I like fine lines and detail on solid color. And I like the combination of structure and randomness.
+
+I think, pushMatrix(), translate() and rotate() are starting to make sense to me. I actually started this one by playing around with a simple line grid, but then I though some space and some standalone squares would be much more fun. I first thought I would only be adding a tiny bit of rotation and randomness, but I like the squares flying totally out of control. Also, I think this is the first time I'm using an if statement in one of my pics.
+
+This pic is drawn with noLoop(), so that the contents of draw() are only drawn once, without looping. But looping while randomly rotating the squares actually also gives a really cool and interesting effect, with contrast not only in how organized the squares are, but also in texture and density, and I want to experiment more with that tomorrow.
+
+In other news, I completed my second workout today, and I'm really proud of myself. We went for a long evening walk with the doggo, and there was sun, and summer evening air, and the smell of trees, and it was good.
+
+**Image/video links:** []()
+
+
+
+
+### 0011_its_here.py | 13.06.2020
 
 **Context**: I'm still very tired, so doing just little things. This one is a tangle of grass-like rods in the back, and a massive white circle up front. I called it "It's here".
 
