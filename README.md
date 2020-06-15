@@ -4,6 +4,30 @@ Small digital sketches created while learning [Processing](https://py.processing
 Sharing the code to document my process and in case you're curious how this one or that one is made. I will add links to the corresponding images/videos later (I post them on [my twitter](https://twitter.com/foxlarssonart)).
 
 
+### 0014_cottongrass.py | 15.06.2020
+
+**Context**: So I liked the pattern from 0013_the_blooming_marsh so much that I just  had to have a whole field of that goodness. =) 
+
+And now I want a dress with fabric like that. I find looking at it incredibly relaxing because of the balance of regular and irregular elements, and I just want to keep looking. And it still looks like the pic of the marsh with cottongrass blooming that my mom sent me.
+
+When I fall in love with a pattern, it's pretty obsessive, I just want to fill more and more spaces with it and sit there, looking at it and just soaking it in.
+
+**Image/video links:** []()
+
+
+
+
+### 0013_the_blooming_marsh.py | 15.06.2020
+
+**Context**: I thought of this one while finishing 0012_wait.py уesterday, but it was so late I was falling asleep, so I had to try it out today first thing in the morning. I commented out the noLoop() and just watched the rotating squares form their pattern magic for a while. But the noLoop() had to come back, because if the suares rotate and draw new versions of themselves infinitely, in the end it's a solid white shape, and all the fun is in the fine lines and detail and patternness. I though at first that it reminded me of dandelions, but the my friend T. said it was just like that picture of cottongrass blooming on the marsh that my mom had sent me the day before, and it was.
+
+I played around a while with getting only the part of the square in the middle of the size that I wanted to transform into lace fluff, leaving the other squares there around for contrast, and I just really love the magic of this pattern, especially that it's not quite regular, although wtending towards regularity, because the squares are rotating random amounts. But there's still regularity because of a lot of repetition, so you can let your eye wander. And I like the edges too, because some places you can see the squares fanning out.
+
+**Image/video links:** []()
+
+
+
+
 ### 0012_wait.py | 14.06.2020
 
 **Context**: I'm on chapter 4 of [Math Adventures with Python](https://nostarch.com/mathadventures), so I've started working through the graphing excercises, built a grid and plotted a parabola. So I was thinking about grids in the evening.
