@@ -3,6 +3,26 @@ Small digital sketches created while learning [Processing](https://py.processing
 
 Sharing the code to document my process and in case you're curious how this one or that one is made. I will add links to the corresponding images/videos later (I post them on [my twitter](https://twitter.com/foxlarssonart)).
 
+### 0015_touching_sine_waves.py | 25.06.2020
+
+**Context**: I finally had the time to get back to a bit of Processing. It felt good.
+
+I went simple with this one. A couple of days ago I followed [Alexander Miller](https://spacefiller.space/)'s tutorial called [Recreating Vintage Computer work with Processing](https://youtu.be/LaarVR1AOvs) showing how to creata flowing trailing shapes made of lines. It's inspired by John Whitney's art, and Alexander explains how parametric equations work and how to use them for making thhose flowing moving shapes.
+
+It was a lot of fun, and the tutorial was just really relaxing to follow, and it turns out that parametric equations are basically just a set of equations that each do their own thing with the same parameter.
+
+I was thinking of building something more complex (and static) out of lines, but ended up falling in love after I saw the first sine wave drawn in wight dots across black, and that had to become a pattern.
+
+Because the sine waves are drawn with dots, it was fun making them look more blobby and imperfect. I like that on one hand they're perfect sine waves, but on the other hand the line has this flowing chunkiness.
+
+It was nice to get back to processing. I was scared that I wouldn't know how to approach it any more.
+
+Mae some art with my hands later on too. Working on transforming a Darth Vader mask figurine that I have with pinks and blues and neons. And had some nice sketchbook time. 
+
+**Image/video links:** []()
+
+
+
 
 ### 0014_cottongrass.py | 15.06.2020
 
