@@ -5,6 +5,25 @@ Sharing the code to document my process and in case you're curious how this one 
 
 ### 0015_touching_sine_waves.py | 25.06.2020
 
+**Context**: This one's a variation of 0015, code-wise. When I saw the fluctuating, almost hand-drawn looking sine waves there, I wanted to experiment with color and layering them immediately.
+
+The color value for the wave is chosen every time a new wave is drawn, and the colors are stored in a dictionary.
+
+I guesss I could have just stored them in a list, but a dictionary allowed me to also store the color names. Mostly for my own convenience, no other big reasons.
+
+I imported the random module, so I could use .choice() for picking a color, and because of that I could no longer use Processing's built-in random() for picking random integers for stroke weight and had to replace those with random.randint().
+
+I was so happy the first time I saw those waves of colors all layered and playing with each other, I just ran the code over and over like a happy kid. =))
+
+In other news I have payed off my last credit card today, and that feels amazing. And it's my personal TGIF today, for the first time in eternit, and I won't be working at all until Monday, so I can make art, sleep, go for walks, or even sleep or do nothing!
+
+**Image/video links:** []()
+
+
+
+
+### 0015_touching_sine_waves.py | 25.06.2020
+
 **Context**: I finally had the time to get back to a bit of Processing. It felt good.
 
 I went simple with this one. A couple of days ago I followed [Alexander Miller](https://spacefiller.space/)'s tutorial called [Recreating Vintage Computer work with Processing](https://youtu.be/LaarVR1AOvs) showing how to creata flowing trailing shapes made of lines. It's inspired by John Whitney's art, and Alexander explains how parametric equations work and how to use them for making thhose flowing moving shapes.
@@ -17,7 +36,9 @@ Because the sine waves are drawn with dots, it was fun making them look more blo
 
 It was nice to get back to processing. I was scared that I wouldn't know how to approach it any more.
 
-Mae some art with my hands later on too. Working on transforming a Darth Vader mask figurine that I have with pinks and blues and neons. And had some nice sketchbook time. 
+Made some art with my hands later on too. Working on transforming a Darth Vader mask figurine that I have with pinks and blues and neons. And had some nice sketchbook time.
+
+I've been thinking that drawing out things in dots gives a lot of opportunity to play with line texture - as opposed to using line() where the thickness will just be the strokeWeight() you set. So I think I'll be playing with that more. It's fun. And diving in some more into using parametric equations, they're also a lot of fun. Even with my really non-scientific methods of using them where I just play around with sometimes random values until I see something that looks just right.
 
 **Image/video links:** []()
 
