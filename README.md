@@ -15,6 +15,8 @@ I like this one. There's a lot to look at and a lot of movement going on.
 
 I still have a very vague theoretical understanding of how the sine and cosine functions move the dots (although I do know how the waves themselves look), but I play around a lot changing individual elements, and  sometimes it feels like it's making a little more sense. But even though I'm not an algebra/geometry master I love playing around with the values and seeing how things change. And looking for compelling images.
 
+P.S.: I still haven't figured out how to set up a grid for repeat elements, so this code violates DRY reeeeeeeeeeeeee-ally badly, I'll try to get to that some time soon =))
+
 **Image/video links:** []()
 
 
