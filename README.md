@@ -3,7 +3,24 @@ Small digital sketches created while learning [Processing](https://py.processing
 
 Sharing the code to document my process and in case you're curious how this one or that one is made. I will add links to the corresponding images/videos later (I post them on [my twitter](https://twitter.com/foxlarssonart)).
 
-### 0015_touching_sine_waves.py | 25.06.2020
+### 0017_the_pull.py | 28.06.2020
+
+**Context**: Still inspired by Alexander Miller's [tutorial](https://youtu.be/LaarVR1AOvs) and parametric equations, plus I wanted to create something with actual lines this time, not just dots (the sine waves in the previous sketches are actually made up of individual dots).
+
+I mostly prefer static images to animation, I think it's fun to create movement while nothing is actually moving. And there's so much to play with in the static plane, that adding the extra level of animation feels almost wasteful, so for now I am using noLoop() with a set number of repetitions.Although movement and animation could be fun in a work that interacted with something like sounds or the viewer's actions. But for now static pictures give so much to explore, that I feel I'll be doing mostly static for quite a while.
+
+I forgot yet again that the parameter in the equations needs to be a float, so I kept getting weird results for a pretty long time.
+
+I like this one. There's a lot to look at and a lot of movement going on.
+
+I still have a very vague theoretical understanding of how the sine and cosine functions move the dots (although I do know how the waves themselves look), but I play around a lot changing individual elements, and  sometimes it feels like it's making a little more sense. But even though I'm not an algebra/geometry master I love playing around with the values and seeing how things change. And looking for compelling images.
+
+**Image/video links:** []()
+
+
+
+
+### 0016_maybe_summer.py | 26.06.2020
 
 **Context**: This one's a variation of 0015, code-wise. When I saw the fluctuating, almost hand-drawn looking sine waves there, I wanted to experiment with color and layering them immediately.
 
