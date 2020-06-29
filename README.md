@@ -3,7 +3,16 @@ Small digital sketches created while learning [Processing](https://py.processing
 
 Sharing the code to document my process and in case you're curious how this one or that one is made. I will add links to the corresponding images/videos later (I post them on [my twitter](https://twitter.com/foxlarssonart)).
 
-### 0018_the_pull.py | 29.06.2020
+### 0019_sine_wave_studies.py | 29.06.2020
+
+**Context**: I was somewhat fuzzy on how sine functions work (apart from the fact that they produce a regular wave), so I did some experiments with the kinds of patterns you can build with sine functions. Each of the waves here is made with lines connecting the dots in two separate sine functions, the x point is the same for both, but the y's are different. I think I'll finally be able to remember that what you divede t by determines how close the wave peaks are to each other (the smaller the number, the closer), and what you multiply the sine function by determines how tall the waves are. Some of the patterns could be fun to play with, but I'd probably want to think of ways of making them a little less regular, otherwise things are too perfect.
+
+**Image/video links:** []()
+
+
+
+
+### 0018_connected.py | 29.06.2020
 
 **Context**: This one is actually the main building block of 0017_the_pull.py - the pull is made of nine of those elements repeated and partly overlapping. I was starting a new sketch, and I wanted to reuse so of the code from the pull, so I copied it in, left only the central element, and it turned out that it was beautiful on its own. So I cleaned it up a bit: the lines now are drawn the exact number of times needed to go the full circle, but without going on for a second circle and starting to overlap with the older lines. And before you ask, nope, there was no math behind that, just experiment, trying smaller and bigger numbers.
 
