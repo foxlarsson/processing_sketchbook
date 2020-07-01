@@ -2,7 +2,6 @@ def setup():
     size(1200, 1200)
     background(255)
     stroke(0)
-    # strokeWeight(1)
     noLoop()
 
 
