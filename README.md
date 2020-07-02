@@ -3,6 +3,19 @@ Small digital sketches created while learning [Processing](https://py.processing
 
 Sharing the code to document my process and in case you're curious how this one or that one is made. I will add links to the corresponding images/videos later (I post them on [my twitter](https://twitter.com/foxlarssonart)).
 
+### 0020_stacking_sine_waves.py | 01.07.2020
+
+**Context**: I wanted to make something with one of the sine wave patterns I came up with in sine_wave_studies, so I tried building a pattern with the fourth wave. I like the movement in the pattern, but I think I'm starting to miss the simplicity of my squares.
+
+I took part in [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing#30.2F06.2F20:_.5BONLINE.5D_.23.E3.81.A4.E3.81.B6.E3.82.84.E3.81.8DProcessing.2Ctweets_da_comunidade_japonesa_de_programa.C3.A7.C3.A3o_criativa_-_Alexandre_Villares) yesterday, it was about the #つぶやきProcessing hashtag. Catching yourself listening to something about bitwise operators in Portuguese at 3 a.m. is amusing. =) In truth though, I had a great time.
+
+Although technically I have more free time right now, I am very stressed out by the conflict with my client, so I can barely focus. So it's just a simple sketch for today. Hopefully, I'll be back on my feet in a couple of days and able to focus on longer periods of time. For now it's just one step at a time. Get out of bed - check, workout - check, feed self proper food - check, open sketchbook - check, walk the beast - check, open processing sketchbook - check.
+
+**Image/video links:** []()
+
+
+
+
 ### 0019_sine_wave_studies.py | 29.06.2020
 
 **Context**: I was somewhat fuzzy on how sine functions work (apart from the fact that they produce a regular wave), so I did some experiments with the kinds of patterns you can build with sine functions. Each of the waves here is made with lines connecting the dots in two separate sine functions, the x point is the same for both, but the y's are different. I think I'll finally be able to remember that what you divede t by determines how close the wave peaks are to each other (the smaller the number, the closer), and what you multiply the sine function by determines how tall the waves are. Some of the patterns could be fun to play with, but I'd probably want to think of ways of making them a little less regular, otherwise things are too perfect.
