@@ -21,7 +21,7 @@ def draw():
                     equi_tri(50)
                     t += 0.02
                 rotate(radians(360 / 13))
-    save('0022_outward.png')
+    # save('0022_outward.png')
 
 
 def equi_tri(length):
