@@ -3,6 +3,49 @@ Small digital sketches created while learning [Processing](https://py.processing
 
 Sharing the code to document my process and in case you're curious how this one or that one is made. I will add links to the corresponding images/videos later (I post them on [my twitter](https://twitter.com/foxlarssonart)).
 
+### 0023_breathing.py | 02.07.2020
+
+**Context**: 
+
+**Image/video links:** []()
+
+
+
+
+### 0022_outward.py | 02.07.2020
+
+**Context**: 
+
+**Image/video links:** []()
+
+
+
+
+### 0021_orchestrated.py | 02.07.2020
+
+**Context**: I spent three hours working through chapter 5 of [Math Adventures with Python](https://nostarch.com/mathadventures) - Transforming Shapes with Geometry. While a lot of the things were things I had already done in one form or another, they were coupled with some geometry, and all of this together really helped solidify them in my head. Moving things around and transoforming them with code is a very different way of thinking from what I'm used to with pen and paper.
+
+I reviewed rotate(), translate() and push/popMatrix(), and also the way things change depending on where you place them in your nested loops.
+
+The chapter (I got through about half, then dove into my own art) was very much in line with what I'd been thinking yesterday when I'd started missing my simple squares.
+
+Rotating shapes and the tracks they leave are beautiful.
+
+I started 0021_orchestrated after doing excercise 5.1 in the book (which asks to create a circle with rotating equilateral triangles placed at equal intervals). The rotating triangles were way too irresistable.
+
+I added more rows, and the churning effect was both disturbing and gripping. When playing with the pattern I discovered that when spacing out the shapes in each circle with angles divisible by 3 and 2, I'd get star-like regular shapes, but with numbers like 11 or 13 I'd get spirals. (I might be getting the generaliztion in this explanation wrong, but some sort of trend like that).
+
+I slowed the piece down a bit when exporting and turning into a gif, it's too solid a depiction of an anxiety attack, as if somebody had taken a picture of what's going on in my head when I'm overwhelmed and panicked and stressed to the verge of sanity. You can see the effect if you run the code.
+
+When slowed down there's more dialog there, not just panic. There's the beauty of the synchronous movement, the disturbing churning of the element in the center, the seemingly slower (though technically identical) rotation of the outer triangles.
+
+I'm still in distress over the large conflict I'm going through. But reading the book and going through some of the excercises helped me get myself back. It's good to be able to make art again. Follow-along art and code projects seem to have that effect on me: you know what to do, exactly in what order, and you get something beautiful as a result. And that lets me start breathing again and I start making my own stuff and feeling alive.
+
+**Image/video links:** []()
+
+
+
+
 ### 0020_stacking_sine_waves.py | 01.07.2020
 
 **Context**: I wanted to make something with one of the sine wave patterns I came up with in sine_wave_studies, so I tried building a pattern with the fourth wave. I like the movement in the pattern, but I think I'm starting to miss the simplicity of my squares.
