@@ -5,7 +5,13 @@ Sharing the code to document my process and in case you're curious how this one 
 
 ### 0023_breathing.py | 02.07.2020
 
-**Context**: 
+**Context**: This one came from the realization that I could also programmatically change the fill color's opacity. It actually came from a mistake, I was thinking of slowly lowering the opacity, and instead made it drop very rapidly, so there's almost an abrupt break. And I held my breath when I saw it. The splash of color, the intricate tangling lines at the edges, the soft layering of the slightly see-throught triangles, and the absolute blackness around. It's somehow focused and calm and vibrant and breathing all at the same time.
+
+The pic reuses the code from 0022_outward almost verbatim, but the rate of the color change is different (it's the most magical when the edge just starts turning a light greenish blue, but never quite gets there), and there's the opacity drop.
+
+I like today's work. And there's so much more to explore.
+
+Also, I think it's remarkable seeing how much calmer the 3rd piece is compared to the first.
 
 **Image/video links:** []()
 
