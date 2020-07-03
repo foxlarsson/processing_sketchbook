@@ -14,7 +14,15 @@ Sharing the code to document my process and in case you're curious how this one 
 
 ### 0022_outward.py | 02.07.2020
 
-**Context**: 
+**Context**: Another thing I learned from chapter 5 (of [Math Adventures with Python](https://nostarch.com/mathadventures)) was using colorMode() and using HSB color mode to change colors based on position. It's easier than with RGB since only one of the numbers defines the actual hue of the color. The book had a cool project with creating a grid of squares with the fill color changing based on the mouse position.
+
+0022_outward mostly reuses the code from 0021_orchestrated with a few small tweaks, and the color changes based on the distance from the point of origin (which has been translated to be in the middle of the canvas). I wanted this one to be static (technically, visually there's a lot of movement), so it' made with noLoop().
+
+I spent quite a while looking for the right rate of the color change.
+
+I like the dense spiral and the strong outward movement, and I like the way the opacity brings in air to the layered triangles.
+
+When I started this series/sketchbook I thought I'd be working in black and white, but it seems that just like on paper, I sometimes crave a big color splash. And I can never resist a rainbow.
 
 **Image/video links:** []()
 
