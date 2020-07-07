@@ -3,9 +3,34 @@ Small digital sketches created while learning [Processing](https://py.processing
 
 Sharing the code to document my process and in case you're curious how this one or that one is made. I will add links to the corresponding images/videos later (I post them on [my twitter](https://twitter.com/foxlarssonart)).
 
+### 0024_circle_game.pyde | 06.07.2020
+
+**Context**: Today is my 100th day of #100DaysOfCode. I finished chapter 5 (Transforming Shapes with Geometry) and started chapter 6 (Creating Oscillations with Trigonometry) of [Math Adventures with Python](https://nostarch.com/mathadventures). I might have to go a bit slower on this one to really understand what I'm doing. Or maybe just practice a lot. There are some really beautiful things there.
+
+I discovered a version of this image while working through the part about Roger Antonsen's 90 rotating equilateral triangles, stored it away in a separate sketch file and came back to it after completing the pattern in the book (the black and white and the rainbow version). I was captivated by the criss-cross patterns revealed in the middle and on the outer edge of the circle as the triangles rotate, and by the line going through the whole circle, as if turning it inside out, as the triangles rotate.
+
+I tried a version where the top triangle is hidden and blends in with the rest of the pattern, but I liked this triangle being there and even ended up adding extra rotation to the circle as a whole, to make the triangle roll around it.
+
+I froze watching the animation several times. Reminded me of the Entertainment. Although there's definitely no wobbly lense physics experiments here.  But the way the pattern moves in and out of itself is oddly captivating. I thought I'd be doing less animation, but sometimes it's irresistible.
+
+Mom liked this one. She sent me a message saying so. That's not too usual.
+
+I've been loving the book so far, and I'm looking forward to the sine wave section.
+
+Since my client work has been called of I've been drawing and painting more and doing my weird painted objects. I'm happy making them. I'll also be working on a pair of wire crowns for K. It's good. I am happier that way.
+
+I am thinking about my next round of #100DaysOfCode and what I'll be focusing on, and I think it's my Processing sketches and, slowly, the Django course. The most precious thing that's come out of this round has been discovering Processing and finally finding a way to introduce my art and my code to each other. It feels special, it feels like a space to grow in.
+
+I'm proud to have finished this round. And so grateful for all the support on twitter and all the people I've met. I never expected anything even close. I feel like I'm starting to find my way.
+
+**Image/video links:** []()
+
+
+
+
 ### 0023_breathing.py | 02.07.2020
 
-**Context**: This one came from the realization that I could also programmatically change the fill color's opacity. It actually came from a mistake, I was thinking of slowly lowering the opacity, and instead made it drop very rapidly, so there's almost an abrupt break. And I held my breath when I saw it. The splash of color, the intricate tangling lines at the edges, the soft layering of the slightly see-throught triangles, and the absolute blackness around. It's somehow focused and calm and vibrant and breathing all at the same time.
+**Context**: This one came from the realization that I could also programmatically change the fill color's opacity. It actually came from a mistake, I was thinking of slowly lowering the opacity, and instead made it drop very rapidly, so there's almost an abrupt break. And I held my breath when I saw it. The splash of color, the intricate tangling lines at the edges, the soft layering of the slightly see-through triangles, and the absolute blackness around. It's somehow focused and calm and vibrant and breathing all at the same time.
 
 The pic reuses the code from 0022_outward almost verbatim, but the rate of the color change is different (it's the most magical when the edge just starts turning a light greenish blue, but never quite gets there), and there's the opacity drop.
 
