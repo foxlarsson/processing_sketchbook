@@ -3,6 +3,19 @@ Small digital sketches created while learning [Processing](https://py.processing
 
 Sharing the code to document my process and in case you're curious how this one or that one is made. I will add links to the corresponding images/videos later (I post them on [my twitter](https://twitter.com/foxlarssonart)).
 
+### 0025_we_share_a_space.pyde | 08.07.2020
+
+**Context**: I'd been thinking about grids since doing the [Math Adventures with Python](https://nostarch.com/mathadventures) Rainbow Grid project. Somewhat before that too, but the project gave me the toolset for implementing grids. So I rewrote the code I was using there to build the grid in a way that allows me to just specify the number of cells per row and the size of the gutter between them, and then the details are calculated automatically.  Although I think I'll rewrite it again later using lists.
+
+We share a space was almost an accident. I was messing around with things, and I was thinking of just having those random sets of lines growing in each cell, but somehow ended up with this crazy thing with the left bottom side being filled with those flowing, almost full length thick black bars. I am still figuring out why and how this works, the strangest thing is that they seem to have some opacity, especially at the bottom, even though they're all technically supposed to be just plain solid black. But even though I don't quite understand how this image works and why my code does exactly what it does, it captivates me. On one hand there's something statistical or mathematical to it, and it seems like it should be visualizing some sort of data, on the other hand I love the abstracted rhythm, and the contrast between the two sides. It makes me want to look longer.
+
+I called it "We share a space".
+
+**Image/video links:** []()
+
+
+
+
 ### 0024_circle_game.pyde | 06.07.2020
 
 **Context**: Today is my 100th day of #100DaysOfCode. I finished chapter 5 (Transforming Shapes with Geometry) and started chapter 6 (Creating Oscillations with Trigonometry) of [Math Adventures with Python](https://nostarch.com/mathadventures). I might have to go a bit slower on this one to really understand what I'm doing. Or maybe just practice a lot. There are some really beautiful things there.
