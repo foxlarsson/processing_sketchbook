@@ -3,6 +3,32 @@ Small digital sketches created while learning [Processing](https://py.processing
 
 Sharing the code to document my process and in case you're curious how this one or that one is made. I will add links to the corresponding images/videos later (I post them on [my twitter](https://twitter.com/foxlarssonart)).
 
+### 0026_how_will_this_go.pyde | 13.07.2020
+
+**Context**: This one, to me, is an image of exploration and wonder.
+
+Yesterday I completed the [Math Adventures with Python](https://nostarch.com/mathadventures) Harmonograph project. It's a program that models two pendulums swinging and slowly decaying, plotting the trails they leave, and after that played with all sorts of amplitudes, frequency, phase shift and decay factor values, until I stumbled upon this mix of geometry and intense glowing ring.
+
+Again, even though I originally thought I'd be working only in black and white, the pic seemed to call for color. It has two layers of semi-transparent randomly sized (within a range) and placed circles going on. It took a while to find the right combination of intensty and texture. And I can't wait to get to the fractal part of the book, so I can have shapes deform in organic-like ways.
+
+I tried using randomSeed() with several numbers (pretty much right out of my head) instead of just going on straight to random(). It's something I learned from an interview with [Manolo Gamboa](https://twitter.com/manoloidee) - he does that so that while there's the randomness, he can also recreate the image at a later time if he chooses to.
+
+While working on this pic, I had this anxiety creep up, over and over: if I don't fully understand this formula (the equation that models the pendulum's oscillations), if I know I could never have come up with it myself (my understanding of math and physics is really basic, to put it generously), can I really use it in my art?
+
+Oddly, it's a fear/anxiety that seems to come up with whatever medium I use. A more radical form of this used to be: if I can't do this when dropped into the wild alone in the middle of nowhere with just a knife and a box of matches, does this really count? If I can't do this from scratch, does this really count?
+
+It's and odd kind of worry to have. People play cello without being able to make their own cello from scratch. People write code without being able to build their own computer from scratch (including physically creating each of the individual components and mining the materials).
+
+It's and odd worry, but it's there.
+
+It's interesting that those Processing sketches lately end up very representative of what I'm going through at the moment. THis pic is a perfect representation of now. I'm about to go on vacation and, for the frst time that I can remember, consciously give myself a break. And explore what happens if I rest and give myself time to recover. I'm about to go live in my grandfather's country house without piling on loads of work. Just living, feeding myself and going for walks with my doggo. Drawing and studying if I want to. And I'm all tingly, and somewhat anxious too, about the experiment. And full of wonder and exploration. And t's almost magic to look up at the pic when it's done and see just that.
+
+
+**Image/video links:** []()
+
+
+
+
 ### 0025_we_share_a_space.pyde | 08.07.2020
 
 **Context**: I'd been thinking about grids since doing the [Math Adventures with Python](https://nostarch.com/mathadventures) Rainbow Grid project. Somewhat before that too, but the project gave me the toolset for implementing grids. So I rewrote the code I was using there to build the grid in a way that allows me to just specify the number of cells per row and the size of the gutter between them, and then the details are calculated automatically.  Although I think I'll rewrite it again later using lists.
